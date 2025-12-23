@@ -30,5 +30,5 @@ validateABA = function(t){
 /*
 alert(validateABA(121202211)); // Valid
 alert(validateABA(121202210)); // Invalid
-*/
+*/ 
 
